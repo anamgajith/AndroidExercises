@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">എഴുനേറ്റു നിൽക്കുക</string>
+    <string name="alarm_off">അലാറം ഓഫാണുകേട്ടോ</string>
+    <string name="alarm_on">അലാറം ഓണാണുകേട്ടോ</string>
+    <string name="content">എഴുനേറ്റു നടക്കു സുഹൃത്തേ</string>
+    <string name="alert">മടിപിടിക്കുന്നു</string>
+</resources>
